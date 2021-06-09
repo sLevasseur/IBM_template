@@ -1,7 +1,7 @@
 body {
     background-color:black;
     font-family:arial;
-    color:white
+    color:white;
     }
 h1 {
     
@@ -11,8 +11,12 @@ h1 {
 .maindiv {
     background-color:white;
     color:black;
-    width:300px;
-    padding:20px
-    border-radius:25px;
-    align:center
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    align-items: center;
+}
+
+footer {
+    margin-top: 5px;
 }
